@@ -1,2 +1,17 @@
-# ml-benchmark-suite
-Framework for benchmarking machine learning models across datasets and performance metrics.
+# Machine Learning Benchmark Suite
+
+A benchmarking toolkit for evaluating machine learning models.
+
+## Features
+
+- Training pipelines
+- Performance evaluation metrics
+- Dataset benchmarking
+- Visualization tools
+
+## Technologies
+
+Python  
+Scikit-learn  
+PyTorch  
+Pandas
